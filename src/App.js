@@ -24,6 +24,26 @@ import ReadOnlyRow from "./components/readOnlyRows";
 import EditableRow from "./components/editableRows";
 import AdminContact from "./components/adminContact"
 
+const styles = {
+    
+  cardImage: {
+      objectFit: 'cover',
+      
+      width: '100vw',
+      height: '30vh'
+
+  },
+
+  cardColor: {
+      backgroundColor: "rgba(245, 245, 245, 0.4)"
+
+  },
+  navPos: {
+    position: 'relative',
+    left: '-15px'
+  }
+}
+
 
 
 //Welcome to the jungle
@@ -43,8 +63,8 @@ const Header = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="justify-content-end" style={{ width:"100%"}}>
-            <Nav.Link href="/about">Om oss</Nav.Link>
-            <Nav.Link href="/contact">Kontakta oss</Nav.Link>
+            <Nav.Link style={styles.navPos} href="/about">Om oss</Nav.Link>
+            <Nav.Link style={styles.navPos} href="/contact">Kontakta oss</Nav.Link>
             
             
           </Nav>
