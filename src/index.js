@@ -4,7 +4,6 @@ import "./custom.scss"
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter} from "react-router-dom";
-import {initFacebookSdk} from "./_helpers";
 import "./fonts/Century Gothic.ttf";
 
 
