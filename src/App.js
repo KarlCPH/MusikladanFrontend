@@ -110,7 +110,7 @@ function App() {
   }
 
   return (
-    <div className="backgroundd">
+    <div style={{border: 'solid 2px'}}className="backgroundd">
       <Router>
         <Header />
         <Switch>
