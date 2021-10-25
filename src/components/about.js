@@ -31,7 +31,7 @@ function About() {
                         overflow: 'auto',
                         height: '750px'}}>
                     
-                <p>En friskola drivs av en annan huvudman än en kommun eller ett landsting. Det kan vara en stiftelse, ett vinstdrivande företag eller en ideell förening, som i Musiklådans fall. Fristående skolor finansieras av kommunala bidrag (skolpeng) och får inte ta ut avgifter. 2010 var 16 procent av alla skolor i Sverige friskolor.</p>
+                <p>En friskola drivs av en annan huvudman än en kommun eller ett landsting. Det kan vara en stiftelse, ett vinstdrivande företag eller en ideell förening, som i Musiklådans fall. Fristående skolor finansieras av kommunala bidrag (skolpeng) och får inte ta ut avgifter. Läsåret 20/21 var andelen elever i friståendeskolor 15.7% av alla skolor i Sverige friskolor.</p>
 
                 <h1>Välkommen till Musiklådan</h1>
                 <p class="boxed"> Musiklådan är en icke kommunal skola med cirka 140 elever som drivs utan vinstsyfte av en föräldraförening i nära samarbete med de anställda. Genom arbetet för skolan och dess utveckling har god gemenskap och omsorg skapats i skolan. Personaltätheten är hög både i skolan och på fritids. Vi har elevinflytande via klass- och elevråd och kamratombud.</p>

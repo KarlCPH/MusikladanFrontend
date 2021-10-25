@@ -34,7 +34,7 @@ function Contact() {
                     <tr>
                         <td>Skolsköterska</td>
                         <td>Mehrunnessa Arif</td>
-                        <td><a href="tel:+46 18 40 46 36">018 40 46 3Mu6</a></td>
+                        <td><a href="tel:+46 18 40 46 36">018 40 46 36</a></td>
                         <td><a href="mailto:mehrunnessa.arif@musikladan.se">mehrunnessa.arif@musikladan.se</a></td>
 
                     </tr>

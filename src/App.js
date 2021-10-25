@@ -40,7 +40,8 @@ const styles = {
   },
   navPos: {
     position: 'relative',
-    left: '-15px'
+    left: '',
+    justifyContent: 'center'
   }
 }
 
@@ -62,7 +63,7 @@ const Header = () => {
         </nav>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="justify-content-end" style={{ width:"100%"}}>
+          <Nav className="justify-content-center" style={{ width:"100%"}}>
             <Nav.Link style={styles.navPos} href="/about">Om oss</Nav.Link>
             <Nav.Link style={styles.navPos} href="/contact">Kontakta oss</Nav.Link>
             

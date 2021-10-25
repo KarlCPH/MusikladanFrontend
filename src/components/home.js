@@ -70,11 +70,11 @@ function Home() {
                 </Card>
 
             </div>
-            <Card className="text-center" style={styles.cardColor}>
+            <Card className="text-left" style={styles.cardColor}>
                 
                 <Card.Body>
-                    <Card.Title><h1>Välkommen till Musiklådan</h1></Card.Title>
-                    <Card.Text>
+                    <Card.Title className="text-center"><h1>Välkommen till Musiklådan</h1></Card.Title>
+                    <Card.Body>
                     Musiklådan är en icke-kommunal skola i Gottsunda med ca 140 elever. Skolan drivs sedan 1994 av en föräldraförening i nära samarbete med personalen.
 Musiklådan är en liten skola där all personal känner alla barn, en bra förutsättning för en trygg skola. Skolan har en klass i varje årskurs från förskoleklass till årskurs 6. Läsåret 2018/19 startade IBIS-programmet i samarbete med Uppsala universitet, för att skapa positiva lärmiljöer.
 För att gynna barnens inlärning och utveckling satsar vi lite extra på de praktisk-estetiska ämnena. På Musiklådan har vi rörelsepass på schemat varje dag samt småslöjd i åk 1 och 2. I lågstadiet får eleverna musik i halvklass varje vecka, förutom den ordinarie musiklektionen. Eleverna i åk 6 har möjlighet att lära sig spela gitarr. Kulturtemat för året mynnar ut i en Vårshow.
@@ -82,13 +82,13 @@ För att gynna barnens inlärning och utveckling satsar vi lite extra på de pra
 <p></p>
 
 <h2>Föräldraförening</h2>
-Skolan är föräldradriven och har man barn på skolan kan man bli medlem i föräldraföreningen. Medlemsavgiften på 100 kr går till uteleksaker (Bg 5918-9969). Har du frågor om föreningen, tag kontakt med ordförande Maria Celina Abraham, styrelsen@musikladan.
+Skolan är föräldradriven och har man barn på skolan kan man bli medlem i föräldraföreningen. Medlemsavgiften på 100 kr går till uteleksaker (Bg 5918-9969). Har du frågor om föreningen, tag kontakt med ordförande Ljiljana Gubeljic, styrelsen@musikladan.
 
 <p></p>
 
 <h2>Tema IBIS</h2>
 Läsåret 2021/22 fortsätter FOSAM-projektet sitt tredje läsår. Det är ett samarbete mellan Uppsala Universitet och Uppsala kommun, där Musiklådan är en av de medverkande skolorna. IBIS (Inkluderande beteendestöd i skolan) har som mål att skapa positiva lärmiljöer. Detta läsår fortsätter arbetet bl a med tydliggjorda regler för klassrum, matsal, korridorer och skolgård.
-                    </Card.Text>
+                    </Card.Body>
                     
                 </Card.Body>
                 
