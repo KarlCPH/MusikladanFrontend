@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.topnav-right {
+  float: right;
+}
+
+#info { 
+  height: 40px; 
+  position: fixed; 
+  bottom:0%;
+  width:100%; 
+  background-color: #393838; 
+  opacity: 1;
+}
+
+.font-face-gm {
+  font-family: "Century Gothic";
+}
+
+
+
+

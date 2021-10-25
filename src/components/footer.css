@@ -1,0 +1,23 @@
+.navbar.transparent.navbar-inverse .navbar-inner {
+    background: rgba(0,0,0,0.4);
+ }
+
+.main-footer {
+    padding-top: 3em;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    flex: 1 0 auto;
+    background: rgb(252,222,103);
+background: linear-gradient(180deg, rgba(252,222,103,1) 4%, rgba(91,204,245,1) 20%);
+  }
+
+a {
+    color: black;
+    font-size: 15px;
+}
+
+
